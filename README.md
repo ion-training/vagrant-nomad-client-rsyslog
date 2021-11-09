@@ -1,0 +1,1 @@
+# nomad sends logs from tasks to ryslog
